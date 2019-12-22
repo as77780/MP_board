@@ -1,0 +1,225 @@
+*************************************************************
+FileName = STM32MP15XXAD_1DDR3Lx16B.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : STM32MP15XXAD_1DDR3Lx16B.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : M1-Board Shape
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 1
+      File : STM32MP15XXAD_1DDR3Lx16B.G1
+
+    Adding Layer      : Signal Layer 1
+
+    Adding Layer      : M1-Board Shape
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 2
+      File : STM32MP15XXAD_1DDR3Lx16B.G2
+
+    Adding Layer      : Signal Layer 2
+
+    Adding Layer      : M1-Board Shape
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D23
+    D24
+    D25
+    D26
+    D29
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : STM32MP15XXAD_1DDR3Lx16B.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : M1-Board Shape
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D14
+    D15
+    D17
+    D18
+    D19
+    D23
+    D24
+    D25
+    D26
+    D28
+    D29
+    D34
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : STM32MP15XXAD_1DDR3Lx16B.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : M1-Board Shape
+
+
+Used DCodes :
+    D25
+    D28
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : STM32MP15XXAD_1DDR3Lx16B.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : M1-Board Shape
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : STM32MP15XXAD_1DDR3Lx16B.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : M1-Board Shape
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D42
+    D44
+    D45
+    D47
+    D49
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : STM32MP15XXAD_1DDR3Lx16B.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : M1-Board Shape
+
+
+Used DCodes :
+    D25
+    D28
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : STM32MP15XXAD_1DDR3Lx16B.GD1
+
+    Adding Layer      : M1-Board Shape
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : STM32MP15XXAD_1DDR3Lx16B.GG1
+
+    Adding Layer      : M1-Board Shape
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D54
+*************************************************************
+

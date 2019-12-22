@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Data\MMS\ddr\Publication\STM32MP15XXAB\STM32MP15XXAB_1DDR3Lx16\CAD_Project_Files\STM32MP15XXAB_1DDR3Lx16_A01.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=stm32mp15xxab_1ddr3lx16a-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Signal1_Blind_Vias|DrillFile=|DrillLayers=gtl,g1
