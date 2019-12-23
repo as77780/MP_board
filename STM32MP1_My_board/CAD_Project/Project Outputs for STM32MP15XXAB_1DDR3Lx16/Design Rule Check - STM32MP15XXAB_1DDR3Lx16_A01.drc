@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\work\stm32mp157\STM32MP1_My_board\CAD_Project\STM32MP15XXAB_1DDR3Lx16_A01.PcbDoc
-Date     : 22.12.2019
-Time     : 20:54:06
+PCB File : D:\GitHub\MP_board\STM32MP1_My_board\CAD_Project\STM32MP15XXAB_1DDR3Lx16_A01.PcbDoc
+Date     : 23.12.2019
+Time     : 16:35:42
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (InNetClass('All Nets')),(All)
 Rule Violations :0
@@ -33,4 +33,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
